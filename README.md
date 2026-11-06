@@ -1,7 +1,7 @@
 # 🚚 Mini Courier Planner
 
 <p align="center">
-  <a href="https://github.com/HarshKamboj25/Mini-Courier-Planner">
+  <a href="https://github.com/aditi0586/Mini-Courier-Planner">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Mini+Courier+Planner;Smart+Parcel+Selection;Optimized+Delivery+Routing;Algorithms+in+Action" alt="Animated Mini Courier Planner heading" />
   </a>
 </p>
@@ -150,7 +150,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/HarshKamboj25/Mini-Courier-Planner.git
+git clone https://github.com/aditi0586/Mini-Courier-Planner.git
 cd Mini-Courier-Planner
 ```
 
@@ -299,7 +299,7 @@ The measured execution times are stored in:
 
 ## 👨‍💻 Author
 
-**Harsh Kamboj**
+**Aditi Pandey**
 
 ---
 
